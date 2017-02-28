@@ -8,7 +8,7 @@ This blog goes hand in hand with the following blog. Please review prioir to usi
 
 Steps to install:
 
-1. Read blog: XXX and make sure MongoDB is install and running somewhere you have access to.
+1. Read blog: https://solutionsanz.blog/2017/02/28/teaching-how-to-use-mongodb-and-expose-it-via-nodejs-apis/ and make sure MongoDB is install and running somewhere you have access to.
 2. Download/clone the contents in this repo
 3. Install the packages: npm install
 4. Run the NodeJS program: node app
